@@ -1,0 +1,6 @@
+{
+  "name": "Instant Camera",
+  "description": "Instant camera app for travellers to capture photo and video moments instantly, fully private and local with AWS S3 cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
